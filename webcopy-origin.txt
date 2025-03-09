@@ -1,28 +1,28 @@
-Uri: https://www.tinhatcat.com/
-File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.com\index.htm
+Uri: https://www.tinhatcat.fun/
+File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.fun\index.htm
 Content Type: text/html
 
-Uri: https://www.tinhatcat.com/assets/index-Ccz2ZRmV.css
-File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.com\assets\index-Ccz2ZRmV.css
+Uri: https://www.tinhatcat.fun/assets/index-Ccz2ZRmV.css
+File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.fun\assets\index-Ccz2ZRmV.css
 Content Type: text/css
 
-Uri: https://www.tinhatcat.com/assets/index-cYtcA0lf.js
-File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.com\assets\index-cYtcA0lf.js
+Uri: https://www.tinhatcat.fun/assets/index-cYtcA0lf.js
+File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.fun\assets\index-cYtcA0lf.js
 Content Type: application/javascript
 
-Uri: https://www.tinhatcat.com/favicon.png
-File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.com\favicon.png
+Uri: https://www.tinhatcat.fun/favicon.png
+File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.fun\favicon.png
 Content Type: image/png
 
-Uri: https://www.tinhatcat.com/images/background.webp
-File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.com\images\background.webp
+Uri: https://www.tinhatcat.fun/images/background.webp
+File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.fun\images\background.webp
 Content Type: image/webp
 
-Uri: https://www.tinhatcat.com/images/foreground.webp
-File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.com\images\foreground.webp
+Uri: https://www.tinhatcat.fun/images/foreground.webp
+File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.fun\images\foreground.webp
 Content Type: image/webp
 
-Uri: https://www.tinhatcat.com/images/seized.webp
-File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.com\images\seized.webp
+Uri: https://www.tinhatcat.fun/images/seized.webp
+File Name: C:\work\Downloaded Web Sites\shablons\www.tinhatcat.fun\images\seized.webp
 Content Type: image/webp
 
